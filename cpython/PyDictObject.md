@@ -801,7 +801,7 @@ In [111]: hash(9) & 7
 Out[111]: 1
 
 In [112]: hash(17) & 7
-Out[112]: 1o
+Out[112]: 1
 ```
 
 更多内容请前往 [leohowell.com](https://leohowell.com)
